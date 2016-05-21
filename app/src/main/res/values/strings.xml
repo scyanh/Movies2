@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movies</string>
+
+    <!-- Menu -->
+    <string name="menu_order_by_popular">Order by Popular</string>
+    <string name="menu_order_by_rate">Order by Rate</string>
+
+</resources>
