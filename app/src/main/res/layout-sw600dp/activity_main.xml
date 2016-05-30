@@ -19,5 +19,11 @@
         tools:context=".MainActivity"
         tools:layout="R.layout.fragment_moviegallery" />
 
+    <FrameLayout
+        android:id="@+id/movie_details_container"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="4"
+        tools:context=".MainActivity" />
 
 </LinearLayout>

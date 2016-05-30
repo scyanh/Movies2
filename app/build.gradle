@@ -26,4 +26,17 @@ dependencies {
     compile 'com.squareup.picasso:picasso:2.5.2'
     compile 'com.squareup.retrofit2:retrofit:2.0.0'
     compile 'com.squareup.retrofit:converter-gson:2.0.0-beta2'
+
+    compile 'com.android.support:design:23.1.1'
+    compile 'com.android.support:recyclerview-v7:23.0.+'
+    compile 'com.jakewharton:butterknife:7.0.1'
+
+    //event injection
+    compile 'com.squareup:otto:1.3.8'
+
+    // Gradle dependency on Stetho
+    compile 'com.facebook.stetho:stetho:1.3.1'
+    compile 'com.facebook.stetho:stetho-okhttp3:1.3.1'
+
+    compile 'su.j2e:rv-joiner:1.0.7'
 }

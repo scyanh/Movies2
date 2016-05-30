@@ -22,6 +22,10 @@
             android:name=".MovieDetailActivity"
             android:configChanges="orientation"
             android:label="Detail"/>
+
+        <provider
+            android:name=".data.MovieProvider"
+            android:authorities="com.caydeem.movies" />
     </application>
 
 </manifest>
